@@ -1,25 +1,8 @@
-# Cloning-Project-2
-Cloning Project of the Barcelona Code School Website 
+Recreate homepage from Barcelona Code School’s website: https://barcelonacodeschool.com
 
-This is my second project from my bootcamp at Barcelona Code School. <br>
-I cloned their homepage: https://barcelonacodeschool.com/ <br>
 
-<h1><b>What I learned:</b></h1>
-<ul>
-  <li>CSS flexbox </li>
-  <li>CSS grid </li>
-  <li>CSS flexbox </li>
-  <li>Navbar </li>
-  <li>font face </li>
-  <li>Hovering Effects </li>
-  <li>Controling elements of a section </li>
-  </ul>
-  
-  <h1><b>What I would like to improve on:</b></h1>
-<ul>
-  <li>Media queries</li>
-  <li>Padding & Margin </li>
-  <li>Responsiveness of the page depending on size </li>
-  <li>Adding JS to the page</li>
-  </ul>
-    
+Squares background for the header in SVG format is available for you here: https://www.barcelonacodeschool.com/files/pics/cur_files/squares.svg
+
+You don’t need to create any functionality, just purely presentational copy of all the page elements.
+
+For the menu no need for the drop downs, only items which are visible on the screen.
