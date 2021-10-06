@@ -8,7 +8,6 @@ I cloned their homepage: https://barcelonacodeschool.com/ <br>
 <ul>
   <li>CSS flexbox </li>
   <li>CSS grid </li>
-  <li>CSS flexbox </li>
   <li>Navbar </li>
   <li>font face </li>
   <li>Hovering Effects </li>
